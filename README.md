@@ -24,5 +24,5 @@ This was a insightful task and helped me review all the app development aspects 
 
 Task 7(C2): Making colab based face detection+recognition+cluster project:
 
-I learnt a lot from https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/about.For eg what is deep metric learning, encoding faces usong Opencv and deep learning, how to recognize faces from images, recognizing faces from videos and much more using Davis King’s dlib library and Adam Geitgey’s face_recognition module which wraps around dlib’s deep metric learning, making facial recognition easier to accomplish. Overall this was the most engaging task of the entire project and though it took some time processing all the information this was the best task.
+I learnt a lot from https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/about.For eg what is deep metric learning, encoding faces using Opencv and deep learning, how to recognize faces from images, recognizing faces from videos and much more using Davis King’s dlib library and Adam Geitgey’s face_recognition module which wraps around dlib’s deep metric learning, making facial recognition easier to accomplish. Overall this was the most engaging task of the entire project and though it took some time processing all the information this was the best task.
 
