@@ -1,6 +1,7 @@
 # SOC2K21_Facial-Recognition_200020057
 
 Task 1(A1): Pandas exercises
+
 Basic functions of pandas and numpy and methods to extract specific data from a given dataset. This introduced us to the basics of reading data, counting rows and columns, checking datatypes and refinig the data to gain both unique and not available entries.
 
 Task 2(A2):Matplotlib exercises
